@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JAVA, HTML/CSS, ANDROID**
 
-- 📫 How to reach me **bojko.vladislav16@ukr.net**
+- 📫 How to reach me **bojko.vladislav16@gmail.com**
 
 - ⚡ Fun fact **I guess I am Funny (hope so)**
 
