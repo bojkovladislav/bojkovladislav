@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
 <h1 align="center">Hi 👋, I'm Bojko Vladislav</h1>
-<h3 align="center">A passionate frontend & backend developer from Ukraine</h3>
+<h3 align="center">A passionate fullstack developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bojkovladislav&label=Profile%20views&color=0e75b6&style=flat" alt="bojkovladislav" /> </p>
 
