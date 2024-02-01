@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/vlad.exe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlad.exe_" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vladyslav-boiko-b389662aa/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Vladyslav Boiko" height="30" width="40" /></a>
+  <a href="https://t.me/VladyslavBoiko" target="blank"><img align="center" src="https://www.svgrepo.com/show/299513/telegram.svg" alt="VladyslavBoiko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,10 +48,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bojkovladislav&show_icons=true&locale=en&layout=compact" alt="bojkovladislav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bojkovladislav&show_icons=true&locale=en" alt="bojkovladislav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bojkovladislav&" alt="bojkovladislav" /></p>
