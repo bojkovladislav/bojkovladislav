@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bojkovladislav&label=Profile%20views&color=0e75b6&style=flat" alt="bojkovladislav" /> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **JAVASCRIPT, TYPESCRIPT, HTML/CSS, REACT**
 
