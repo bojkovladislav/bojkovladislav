@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bojkovladislav&label=Profile%20views&color=0e75b6&style=flat" alt="bojkovladislav" /> </p>
 
-- 📫 How to reach me **bojko.vladislav16@gmail.com**
+- 📫 How to reach me **vladyslav.boiko.job@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
