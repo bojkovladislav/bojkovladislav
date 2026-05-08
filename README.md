@@ -42,17 +42,15 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/vladyslav-boiko-b389662aa/" target="_blank">
     <img 
-      align="center" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
       alt="LinkedIn" 
       height="35" 
       width="35" 
     />
   </a>
-
+  
   <a href="https://t.me/VladyslavBoiko" target="_blank">
     <img 
-      align="center" 
       src="https://www.svgrepo.com/show/299513/telegram.svg" 
       alt="Telegram" 
       height="35" 
@@ -66,7 +64,6 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
@@ -114,32 +111,4 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bojkovladislav&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bojkovladislav&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
-
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=bojkovladislav&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
 </p>
